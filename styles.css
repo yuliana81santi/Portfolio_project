@@ -36,3 +36,31 @@ li a{
     text-decoration: dashed;
     color: black;
     }
+
+a:hover{
+    color: rgb(111, 0, 255);
+    background-color: yellow;
+    }
+    
+nav{
+    margin-left: 750px;
+    font-size:20px;
+    margin-top: 0px;
+    z-index: -1;
+    }
+         
+#div1{
+    margin-left: 0px;
+    width: auto;
+    height: 80px;
+    margin-top: 0px;
+    z-index: -2;
+    }
+     
+p{
+    margin-left: 350px;
+    margin-right: 250px;
+    font-weight: 100;
+    color: black;
+    font-size: 22px; 
+    }
