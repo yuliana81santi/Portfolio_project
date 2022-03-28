@@ -11,7 +11,7 @@ h1{
 
 h2 {
     margin-top: 30px;
-    margin-left:450x;
+    margin-left: 450x;
     font-size: 40px;
     text-align: left;
     color:magenta;
@@ -63,4 +63,13 @@ p{
     font-weight: 100;
     color: black;
     font-size: 22px; 
+    }
+    
+footer{
+    height: 120px;
+    width: auto;
+    text-align: center;
+    position: relative;
+    margin-top: 70px;
+    font-size: 12px;
     }
