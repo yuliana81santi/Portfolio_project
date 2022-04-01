@@ -16,12 +16,15 @@ I like to keep the website simple as it suits my style and make it easier for an
 - Footer - It is located at the bottom of each page in the center. 
 
 **contact.html**
+- Facebook and LinkedIn hyperlinks are provided for the user to connect with me through social media
 - form with send button - It allows users to provide their names and email address and send messages to contact me. No further action is taken when "send" button is clicked due to the limitation of this project.  
 
 **Features left to Implement**
+
 Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website
 - the "send" button in the contact.html will provide a prompt to inform the users that their message has been succesfully sent. 
-- add some animation such as page transition to the webpage to make it more attractive. 
+- use javascript to prompt hyperlinks in new windows.
+
 
 ## Technology Used
 - HTML5
@@ -33,5 +36,13 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
 - Github
   I used Github as my remote repository and used it to deploy my website. 
 
-  ## Testing
-  I used google chrome to test my website to make sure that it looks good on different screen size. 
+## Testing
+
+**Responsive Testing**
+
+I used google chrome to test my website to make sure that it looks good on different screen size. 
+
+**HTML and CSS Validation**
+
+I used W3C HTML Validator tool to validate the HTML code
+I used W3C CSS Validator tool to validate the CSS code
