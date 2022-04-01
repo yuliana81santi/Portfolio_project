@@ -35,14 +35,3 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
   I used Git as version control to add, edit, and commit any changes made in the webpage content before pushing it to Github
 - Github
   I used Github as my remote repository and used it to deploy my website. 
-
-## Testing
-
-**Responsive Testing**
-
-I used google chrome to test my website to make sure that it looks good on different screen size. 
-
-**HTML and CSS Validation**
-
-I used W3C HTML Validator tool to validate the HTML code
-I used W3C CSS Validator tool to validate the CSS code
