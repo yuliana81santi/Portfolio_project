@@ -39,7 +39,7 @@ li a{
 
 a:hover{
     color: rgb(111, 0, 255);
-    background-color: yellow;
+    font-weight: bold;
     }
     
 nav{
