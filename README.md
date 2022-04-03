@@ -41,9 +41,29 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
 
 **Responsive Testing**
 
-I used google chrome to test my website to make sure that it looks good on different screen size. 
+I used google chrome to test my website to make sure that they are displayed properly.  
 
 **HTML and CSS Validation**
 
 I used W3C HTML Validator tool to validate the HTML code
 I used W3C CSS Validator tool to validate the CSS code
+
+
+## Deployment
+
+I've used Github as the hosting platform for my portfolio project. To deploy my website to GitHub, I used the following steps:
+
+1. Run the terminal window in my Visual Studio Code.
+2. Initialised Git using the `git init` command.
+3. Added files using the `git add .` command.
+4. Committed the files using the `git commit -m " "` command.
+5. Created a new repository called 'portfolio_project' in Github.
+6. Copied the below code from GitHub into the terminal window in my Visual Studio Code editor:
+    ```git remote add origin https://github.com/yuliana81santi/Portfolio_project.git```
+    ```git push origin main```
+7. Entered my GitHub username and password to push the files from Git to GitHub.
+8. Regularly commits and push my project files using Git to Github.
+
+
+
+
