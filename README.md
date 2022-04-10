@@ -70,4 +70,11 @@ I've used Github as the hosting platform for my portfolio project. To deploy my 
 https://yuliana81santi.github.io/Portfolio_project/
 
 
+## Running Code Locally
+
+Users can clone and copy my code for this project with the following steps:
+1. Go to [my github repository]
+(https://github.com/yuliana81santi/Portfolio_project.git).
+2. Click copy or clone the link.
+
 
