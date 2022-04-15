@@ -93,3 +93,23 @@ footer{
     width: 120px; 
     height: 70px;
 }
+#contact{
+    font-size:18px;
+    border: 3px;
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 800px;
+    height: 400px;
+    padding:10px;
+    color: black;
+    background-color: white;
+     }
+
+#contact td{
+    width: 400px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 5px;
+    border-color: magenta;
+    border-style: solid;  
+}
