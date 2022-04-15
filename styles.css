@@ -83,15 +83,17 @@ footer{
     font-size: 12px;
     }
 #facebook{
-    margin-left: 30px; 
-    width: 70px; 
-    height: 70px; 
+    margin-left: 0px; 
+    margin-top: 0px;
+    width: 100px; 
+    height: 80px; 
     float: left;
-}
+       }
 #linked{
-    margin-left: 40px; 
+    margin-left: 0px;
     width: 120px; 
-    height: 70px;
+    height: 100px;
+    
 }
 #contact{
     font-size:18px;
@@ -113,3 +115,33 @@ footer{
     border-color: magenta;
     border-style: solid;  
 }
+
+.work{
+   font-size:18px;
+   margin-top: 60px;
+   margin-left: 150px;
+   width: auto;
+   text-align: left;
+   padding:30px;
+   color: black;
+   
+            }
+.work td{
+   padding: 20px;
+   border-radius: 20px;
+   color:black;
+   height: 150px;
+   text-align: center;
+   }
+
+.note{
+   background-color: rgb(209, 209, 209);
+   width: 700px;
+   text-align: left;
+}
+.period{
+   background-color: magenta;
+   width: 250px;
+   text-align: center;
+}
+  
