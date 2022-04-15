@@ -18,15 +18,11 @@ h1{
    float:left;
  }
 
-h2 {
-    margin-top: 30px;
-    margin-left: 450x;
-    font-size: 40px;
-    text-align: left;
+h2{
     color:magenta;
-    height:40px;
+    padding: 20px;
+    
     }
-
 li{
     font-size: 18px;
     float: left;   
@@ -73,7 +69,20 @@ p{
     color: black;
     font-size: 22px; 
     }
-    
+
+#quotes{
+    font-style:italic; 
+    text-align: center; 
+    border-radius: 50px;
+    font-size:20px; 
+    margin-left: 335px; 
+    margin-right:230px; 
+    background-color: rgb(209, 209, 209);
+    border: 1px; 
+    width: auto; 
+    height: auto; 
+    padding: 15px;
+}
 footer{
     height: 120px;
     width: auto;
