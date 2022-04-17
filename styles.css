@@ -7,7 +7,7 @@ h1{
     background-color: rgb(199, 149, 245);
     height: 80px;
     padding: 20px;
-   }
+     }
 
  img{
    height:200px; 
@@ -21,7 +21,7 @@ h1{
 h2{
     color:magenta;
     padding: 20px;
-    
+        
     }
 li{
     font-size: 18px;
@@ -47,11 +47,11 @@ a:hover{
     font-weight: bold;
     }
     
-nav{
+nav div ul li a{ 
     margin-left: 750px;
     font-size:20px;
-    margin-top: 0px;
-    z-index: -1;
+    margin-top: 100px;
+    z-index: 1;
     }
          
 #div1{
