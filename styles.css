@@ -5,9 +5,10 @@ h1{
     width: auto;
     background-color: rgb(199, 149, 245);
     height: 80px;
-    padding: 20px;
+    padding: 15px;
+    padding-left: 25px;
     margin-top: 0px;
-         }
+          }
 
  img{
    height:200px; 
@@ -21,12 +22,12 @@ h1{
 h2{
     color:magenta;
     padding: 50px;
+    margin-left: 300px;
         
     }
 
-    a:hover{
-    color: rgb(111, 0, 255);
-    font-weight: bold;
+a:hover{
+       font-weight: bold;
     }
     
 nav{ 
@@ -37,6 +38,7 @@ nav{
     list-style-type: none;
     margin-left: 800px;
     padding-top: 20px;
+    padding-left: 30px;
         
          }
          
