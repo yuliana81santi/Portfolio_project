@@ -79,16 +79,18 @@ footer{
     font-size: 12px;
     }
 #facebook{
-    margin-left: 0px; 
+    margin-left: 50px; 
     margin-top: 0px;
-    width: 100px; 
-    height: 80px; 
+    width: 90px; 
+    height: 73px; 
     float: left;
-       }
+    z-index: -1;
+           }
 #linked{
-    margin-left: 0px;
+    margin-left: 20px;
     width: 120px; 
     height: 100px;
+    margin-top:5px;
     
 }
 #contact{
@@ -132,13 +134,13 @@ footer{
 
 .note{
    background-color: rgb(209, 209, 209);
-   width: 700px;
+   width: 800px;
    text-align: left;
-}
+   }
+
 .period{
    background-color: magenta;
-   width: 250px;
-   text-align: center;
+   width: 200px;
 }
 
 #study{
@@ -176,4 +178,14 @@ footer{
  position: absolute; 
 text-align: right;
 } 
-
+.accordion-item{
+    padding: 0px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: left;
+}
+button{
+    text-align: left;
+}
+    
+}
