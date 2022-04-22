@@ -64,7 +64,7 @@ p{
     font-size:20px; 
     margin-left: 335px; 
     margin-right:230px; 
-    background-color: rgb(209, 209, 209);
+    background-color: rgb(225, 250, 250);
     border: 1px; 
     width: auto; 
     height: auto; 
@@ -102,7 +102,6 @@ footer{
     height: 400px;
     padding:10px;
     color: black;
-    background-color: white;
      }
 
 #contact td{
@@ -110,7 +109,7 @@ footer{
     padding-left: 30px;
     border-radius: 20px;
     border: 5px;
-    border-color: magenta;
+    border-color: rgb(225, 250, 250);
     border-style: solid;  
 }
 
