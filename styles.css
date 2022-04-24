@@ -58,16 +58,15 @@ p{
     font-size: 18px; 
     }
 
-Figure{
+.text-center{
     font-style:italic; 
     text-align: center; 
     border-radius: 50px;
     font-size:20px; 
-    background-color: rgb(225, 250, 250);
-    border: 1px; 
-    width: auto; 
-    height: auto; 
-    padding: 15px;
+    background-color:rgb(200, 250, 250) ;
+    margin-left: 350px;
+    margin-right: 250px;
+    padding: 0px;
 }
 footer{
     height: 100px;
