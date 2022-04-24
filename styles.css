@@ -21,8 +21,8 @@ h1{
 
 h2{
     color:blue;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 30px;
     margin-left: 350px;
         
     }
@@ -53,9 +53,9 @@ nav{
 p{
     margin-left: 350px;
     margin-right: 250px;
-    font-weight: 100;
+    font-weight: bold;
     color: black;
-    font-size: 22px; 
+    font-size: 18px; 
     }
 
 #quotes{
@@ -72,12 +72,13 @@ p{
     padding: 15px;
 }
 footer{
-    height: 120px;
+    height: 100px;
     width: auto;
     text-align: center;
     position: relative;
-    margin-top: 70px;
+    margin-top: 80px;
     font-size: 12px;
+    background-color: rgb(199, 149, 245);
     }
 #facebook{
     margin-left: 50px; 
@@ -146,19 +147,21 @@ footer{
 .accordion-body{
     padding: 0px;
     text-align: left;
+    font-size: 16px;
 }
 
 .accordion-header{
     text-align: left;
     margin-left: 0px;
     padding: 0px;
-}
+        }
 
 #container{
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 100px;
     width: 1000px;
+    font-size: 18px;
     
     }
 
