@@ -21,20 +21,27 @@ I like to keep the website simple as it suits my style and make it easier for an
 
 **Features left to Implement**
 
-Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website
-- the "send" button in the contact.html will provide a prompt to inform the users that their message has been succesfully sent. 
-- use javascript to prompt hyperlinks in new windows.
+Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website to make it more interactive and attractive.
 
 
 ## Technology Used
 - HTML5
+
   I used html5 as the basic element to create my website.
 - CSS3
+
   I used CSS3 to add styling to the content of my webpages.
+- Bootstrap v5.1.3
+
+Bootstrap provides prebuilt components and adds styles to the website alongside my custom sytles.
 - Git
-  I used Git as version control to add, edit, and commit any changes made in the webpage content before pushing it to Github
+
+  I used Git as version control to add, edit, and commit any changes made in the webpage content before pushing it to Github.
 - Github
+
   I used Github as my remote repository and used it to deploy my website. 
+ 
+
 
 
 ## Testing
@@ -78,3 +85,14 @@ Users can clone and copy my code for this project with the following steps:
 2. Click copy or clone the link.
 
 
+## Interesting bugs or problems
+
+-**Burger Icon** - The burger icon was shown on the overlay menu. To solve this issue, I adjusted the header1 width. 
+-**Social Media Links** - I used JavaScript code to open the social media links in a new window but it only worked for the last one only. After consulting my mentor, He showed me a simpler way to do it, using HTML code only.
+
+
+## Credit
+
+**Acknowledgement**
+Special thank you to my Mentor, Sunny Hebar, for his help and support. I got inspriration from his website which is simple yet interactive. I wanted to create similar concept while incorporating my own design. 
+ 
