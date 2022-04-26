@@ -2,13 +2,16 @@
 
 This is my first IT project. I created this page as a part of an IT course that I am currently doing. This webpage contains my portfolio where people can know who I am. I have included basic information about myself, my educations, my experiences, as well as how to contact me.  
 
+
 UX
 ---
 This webpage can be used by any potential employers or company who would like to hire me to get detailed information about myself. 
 I like to keep the website simple as it suits my style and make it easier for any readers to navigate around the website.  
 
 
+
 ## Features
+
 
 **All Pages**
 - Full screen overlay menu - My website contain navigation links which will direct users to the relevant pages.
@@ -24,6 +27,8 @@ I like to keep the website simple as it suits my style and make it easier for an
 Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website to make it more interactive and attractive.
 
 
+
+
 ## Technology Used
 - HTML5
 
@@ -33,7 +38,7 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
   I used CSS3 to add styling to the content of my webpages.
 - Bootstrap v5.1.3
 
-Bootstrap provides prebuilt components and adds styles to the website alongside my custom sytles.
+  Bootstrap provides prebuilt components and adds styles to the website alongside my custom sytles.
 - Git
 
   I used Git as version control to add, edit, and commit any changes made in the webpage content before pushing it to Github.
@@ -46,15 +51,19 @@ Bootstrap provides prebuilt components and adds styles to the website alongside 
 
 ## Testing
 
+
 **Responsive Testing**
 
 I used google chrome to test my website to make sure that they are displayed properly.  
+
 
 **HTML and CSS Validation**
 
 I used W3C HTML Validator tool to validate the HTML code
 
 I used W3C CSS Validator tool to validate the CSS code
+
+
 
 
 ## Deployment
@@ -72,9 +81,13 @@ I've used Github as the hosting platform for my portfolio project. To deploy my 
 8. Regularly commits and push my project files using Git to Github.
 
 
+
+
 ## Repository Link
 
 https://yuliana81santi.github.io/Portfolio_project/
+
+
 
 
 ## Running Code Locally
@@ -85,10 +98,15 @@ Users can clone and copy my code for this project with the following steps:
 2. Click copy or clone the link.
 
 
+
+
 ## Interesting bugs or problems
 
--**Burger Icon** - The burger icon was shown on the overlay menu. To solve this issue, I adjusted the header1 width. 
+-**Burger Icon** - The burger icon was shown on the overlay menu. To solve this issue, I adjusted the header1 width.
+
 -**Social Media Links** - I used JavaScript code to open the social media links in a new window but it only worked for the last one only. After consulting my mentor, He showed me a simpler way to do it, using HTML code only.
+
+
 
 
 ## Credit
