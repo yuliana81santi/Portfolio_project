@@ -112,5 +112,6 @@ Users can clone and copy my code for this project with the following steps:
 ## Credit
 
 **Acknowledgement**
+
 Special thank you to my Mentor, Sunny Hebar, for his help and support. I got inspriration from his website which is simple yet interactive. I wanted to create similar concept while incorporating my own design. 
  
