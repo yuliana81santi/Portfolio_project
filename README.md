@@ -59,9 +59,9 @@ I used google chrome to test my website to make sure that they are displayed pro
 
 **HTML and CSS Validation**
 
-I used W3C HTML Validator tool to validate the HTML code
+I used [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate the HTML code
 
-I used W3C CSS Validator tool to validate the CSS code
+I used [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate the CSS code
 
 
 
@@ -113,5 +113,5 @@ Users can clone and copy my code for this project with the following steps:
 
 **Acknowledgement**
 
-Special thank you to my Mentor, Sunny Hebar, for his help and support. I got inspriration from his website which is simple yet interactive. I wanted to create similar concept while incorporating my own design. 
+Special thank you to my Mentor, Sunny Hebar, for his help, support, and sharing his knowledge and experiences. I got inspriration from his website which is simple yet interactive and attractive. I wanted to create similar concept while incorporating my own design. 
  
