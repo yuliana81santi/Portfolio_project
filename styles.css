@@ -189,7 +189,7 @@ button{
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 100px;
-    width: 1000px;
+    width: device-width;
     font-size: 18px;
     }
 
