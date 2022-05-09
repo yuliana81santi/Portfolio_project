@@ -1,5 +1,5 @@
 body{
-    width: "device-widt";
+    width: "device-width";
 }
 
 h1{
@@ -7,12 +7,13 @@ h1{
     color:rgb(78, 78, 78);
     text-align: left;
     width: auto;
-    background-color: rgb(199, 149, 245);
     height: 80px;
     padding: 15px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 0;
+    float: left;
+    position: sticky;
          }
 
  img{
@@ -26,10 +27,9 @@ h1{
 
 h2{
     color:blue;
-    padding-top: 120px;
-    padding-bottom: 30px;
-    margin-left: 350px;
-        
+    padding-top: 200px;
+    padding-bottom: 30px;   
+    margin-left: 100px;
     }
 
 a:hover{
@@ -46,18 +46,11 @@ nav{
     padding-top: 20px;
     padding-left: 30px;
     margin-top: 0;
-    background-color: rgb(199, 149, 245);
-    position: relative;
-    }
+    position: sticky;
+     }
          
-#div1{
-    width: 800px;
-    float: left;
-    position: absolute;
-    }
-     
+    
 p{
-    margin-left: 350px;
     color: black;
     font-size: 18px; 
     }
@@ -65,7 +58,7 @@ p{
 
 span{
     font-size: 18px;
-}
+    }   
 
 .text-center{
     font-style:italic; 
@@ -76,7 +69,7 @@ span{
     margin-left: 350px;
     margin-right: 250px;
     padding: 0px;
-}
+    }
 
 footer{
     height: 100px;
@@ -102,8 +95,8 @@ footer{
     width: 120px; 
     height: 100px;
     margin-top:5px;
-    
-}
+    }
+
 #contact{
     font-size:18px;
     border: 3px;
@@ -113,7 +106,7 @@ footer{
     height: 400px;
     padding:10px;
     color: black;
-     }
+    }
 
 #contact td{
     width: 400px;
@@ -195,8 +188,4 @@ button{
     margin-top: 100px;
     width: device-width;
 }
-#row{
-    width: 800px;
-    height: 500px;
-    background-color: yellow;
-}
+
