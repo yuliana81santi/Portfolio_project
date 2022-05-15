@@ -2,12 +2,12 @@ body{
     width: "device-width";
 }
 
-h1{
-    font-size: 30px;
+h2{
+    font-size: 24px;
     color:rgb(78, 78, 78);
     text-align: left;
     height: 80px;
-    padding: 15px;
+    padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 0;
@@ -15,15 +15,16 @@ h1{
       }
 
  img{
-   height:80px; 
-   width:80px; 
+   height:75px; 
+   width:75px; 
    border-radius: 100px;
    float:left;
+   margin-top: 5px;
    margin-right: 20px;
     }
 
 
-h2{
+h1{
     color:blue;
     padding-top: 120px;
     margin-left: 15%;
@@ -150,7 +151,7 @@ button{
     border-color: black;
     border-style: solid;
     color:black;
-}
+    }
 
 #study th{
     font-size: 20px;
@@ -159,24 +160,24 @@ button{
     border-color: black;
     border-style:solid;  
     background-color: rgb(225, 250, 250);
-}
+    }
 
 .accordion-body{
     padding: 0px;
     text-align: left;
     font-size: 16px;
-}
+    }
 
 .accordion-header{
     text-align: left;
     margin-left: 0px;
     padding: 0px;
-        }
+    }
 
-#container1{
-    margin-left: 150px;
-    margin-right: 150px;
+#container{
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 100px;
     width: device-width;
-}
+    }
 
