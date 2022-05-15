@@ -106,13 +106,13 @@ footer{
     font-size: 14px;
     }
 
-button{
+#send{
     border-radius: 5px; 
     background-color: rgb(225, 250, 250); 
     height: 30px;
-    width: 80px; 
+    width: 70px; 
     margin-left: 225px; 
-    font-size: 15px;
+    font-size: 14px;
     }
 
 #study{
