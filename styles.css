@@ -52,8 +52,8 @@ nav{
 }
     
 p{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
     font-size: 20px;
     }
 
@@ -64,16 +64,34 @@ span{
     padding-right: 15%;
     }
 
-footer{
-    height: 100px;
-    width: auto;
-    text-align: center;
-    position: relative;
-    margin-top: 80px;
-    font-size: 12px;
-    background-color: #0d6efd;
+.d-flex{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 18px;
+    background-color: rgb(225, 250, 250);
     }
 
+.accordion-body{
+    padding: 0px;
+    text-align: left;
+    font-size: 16px;
+    }
+
+.accordion-header{
+    text-align: left;
+    margin-left: 0px;
+    padding: 0px;
+    }
+
+#container{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+    width: device-width;
+    }
+    
 #facebook{
     margin-left: 50px; 
     margin-top: 15px;
@@ -96,8 +114,7 @@ footer{
     border-radius: 5px; 
     font-size: 14px; 
     color: grey;
-    margin-right: 0px;
-     }
+    }
 
 #message{
     width:300px; 
@@ -114,42 +131,21 @@ footer{
     margin-left: 225px; 
     font-size: 14px;
     }
-
-.d-flex{
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 50px;
-    padding: 20px;
-    font-size: 18px;
-    }
-
-
-.accordion-body{
-    padding: 0px;
-    text-align: left;
-    font-size: 16px;
-    }
-
-.accordion-header{
-    text-align: left;
-    margin-left: 0px;
-    padding: 0px;
-    }
-
-#container{
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 100px;
-    width: device-width;
-    }
-
 .container{
     margin-top: 80px;
     font-size: 20px;
-     }
+    }
 .col-sm-4{
     margin-left: 15%;
     }
-.col-sm{
-    margin-left: 10%;
-}
+
+footer{
+    height: 100px;
+    width: auto;
+    text-align: center;
+    position: relative;
+    margin-top: 80px;
+    font-size: 12px;
+    background-color: #0d6efd;
+        }
+    
