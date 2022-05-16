@@ -130,7 +130,9 @@ span{
     width: 70px; 
     margin-left: 225px; 
     font-size: 14px;
+    margin-bottom: 5px;
     }
+
 .container{
     margin-top: 80px;
     font-size: 20px;
