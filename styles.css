@@ -97,6 +97,7 @@ footer{
     border-radius: 5px; 
     font-size: 14px; 
     color: grey;
+    margin-right: 0px;
      }
 
 #message{
@@ -115,6 +116,14 @@ footer{
     font-size: 14px;
     }
 
+.d-flex{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 18px;
+
+    }
 #study{
     font-size:15px;
     border: 3px;
