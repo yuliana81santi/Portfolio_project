@@ -1,7 +1,3 @@
-body{
-    width: "device-width";
-}
-
 h2{
     font-size: 20px;
     color:rgb(78, 78, 78);
@@ -80,7 +76,6 @@ span{
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 100px;
-    width: device-width;
     }
     
 #facebook{
@@ -116,7 +111,7 @@ span{
 
 #send{
     border-radius: 5px; 
-    background-color: aqua; 
+    background-color: #0dcaf0; 
     height: 30px;
     width: 70px; 
     margin-left: 225px; 
