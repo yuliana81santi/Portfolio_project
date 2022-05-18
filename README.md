@@ -59,8 +59,9 @@ I used visual studio code as the code editor to write and develop the code for m
 
 **Responsive Testing**
 
-I used a few web browsers to test my website to make sure that they are presentable.  I also tested my webpage against different type of devices (i.e laptop and mobile phones) to ensure they are responsive and displayed properly on difference screen sizes. 
+I used google chrome as the main browser to check my website. However, I also use a couple of other web browsers to test my website to make sure that they are presentable.  I also tested my webpage against different type of devices (i.e laptop and mobile phones) to ensure they are responsive and displayed properly on difference screen sizes. 
 
+Every time a code was changed, I checked it right away on the a google chrome to ensure they changed are displayed properly. When the code works properly, I would commit it through git and eventually on github. 
 
 **HTML and CSS Validation**
 
