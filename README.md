@@ -101,7 +101,8 @@ https://yuliana81santi.github.io/Portfolio_project/
 Users can clone and copy my code for this project with the following steps:
 1. Go to [my github repository]
 (https://github.com/yuliana81santi/Portfolio_project.git).
-2. Click copy or clone the link.
+2. Select Code.
+3. Select and copy the link or press the copy button whic is located on the right hand side of the link.
 
 
 
