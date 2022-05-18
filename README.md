@@ -20,7 +20,7 @@ I like to keep the website simple as it suits my style and make it easier for an
 
 **contact.html**
 - Facebook and LinkedIn hyperlinks are provided for the user to connect with me through social media
-- form with send button - It allows users to provide their names and email address and send messages to contact me. No further action is taken when "send" button is clicked due to the limitation of this project.  
+- form with send button - It allows users to provide their names and email address and send messages to contact me.   
 
 **Features left to Implement**
 
