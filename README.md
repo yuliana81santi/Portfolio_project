@@ -26,7 +26,7 @@ I like to keep the website simple as it suits my style and make it easier for an
 
 **Features left to Implement**
 
-Once I have learnt more about Javascript and Back-end Web Development, I will improve some features of my website to make it more interactive and attractive.
+Once I have learnt more about web design, Javascript and Back-end Web Development, I would like add some features and improve the design of my website to make it more attractive.
 
 
 
