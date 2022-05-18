@@ -16,7 +16,9 @@ I like to keep the website simple as it suits my style and make it easier for an
 **All Pages**
 - Full screen overlay menu - My website contain navigation links which will direct users to the relevant pages.
 - Navigation links - It is located in the right top corner of the web pages to help users to navigate around my web pages. 
+- Hamburger button - When the webpages are shrunk, the navigation links will be displayed in a hamburger button. 
 - Footer - It is located at the bottom of each page in the center. 
+
 
 **contact.html**
 - Facebook and LinkedIn hyperlinks are provided for the user to connect with me through social media
