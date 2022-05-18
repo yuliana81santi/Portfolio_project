@@ -54,7 +54,7 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
 
 **Responsive Testing**
 
-I used google chrome to test my website to make sure that they are displayed properly.  
+I used a few web browsers to test my website to make sure that they are presentable.  I also tested my webpage against different type of devices (i.e laptop and mobile phones) to ensure they are responsive and displayed properly on difference screen sizes. 
 
 
 **HTML and CSS Validation**
@@ -106,7 +106,7 @@ Users can clone and copy my code for this project with the following steps:
 
 -**Social Media Links** - I used JavaScript code to open the social media links in a new window but it only worked for the last one only. After consulting my mentor, He showed me a simpler way to do it, using HTML code only.
 
--**Mobile Friendly Website** - I added viewport in my head section to make my website mobile friendly. However, after adding the code and check my website, It was not responsive. My website on mobile devices looked exactly the same as if it was opened in a laptop and was difficult to read. I took my few days to realized that I had misspelled the word viewport. After correcting my spelling, it become mobile friendly. 
+-**Mobile Friendly Website** - I added viewport in my head section to make my website mobile friendly. However, after adding the code and check my website, It was not responsive. My website on mobile devices looked exactly the same as if it was opened in a laptop and was difficult to read. I took me a few days to realized that I had misspelled the word viewport. After correcting my spelling, it become mobile friendly. 
 
 
 
