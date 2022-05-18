@@ -38,7 +38,7 @@ Once I have learnt more about Javascript and Back-end Web Development, I will im
   I used CSS3 to add styling to the content of my webpages.
 - Bootstrap v5.1.3
 
-  Bootstrap provides prebuilt components and adds styles to the website alongside my custom sytles.
+  Bootstrap provides prebuilt components that are easy to use and responsive to different devices. It also adds styles to the website alongside my custom design. 
 - Git
 
   I used Git as version control to add, edit, and commit any changes made in the webpage content before pushing it to Github.
