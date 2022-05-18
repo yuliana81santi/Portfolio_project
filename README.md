@@ -48,7 +48,10 @@ Once I have learnt more about web design, Javascript and Back-end Web Developmen
 
   I used Github as my remote repository and used it to deploy my website. 
  
+- Visual Studio Code
 
+
+I used visual studio code as the code editor to write and develop the code for my website. 
 
 
 ## Testing
