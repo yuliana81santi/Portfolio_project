@@ -16,7 +16,7 @@ I like to keep the website simple as it suits my style and make it easier for an
 **All Pages**
 - Full screen overlay menu - My website contain navigation links which will direct users to the relevant pages.
 - Navigation links - It is located in the right top corner of the web pages to help users to navigate around my web pages. 
-- Hamburger button - When the webpages are shrunk, the navigation links will be displayed in a hamburger button. 
+- Burger button - When the webpages are shrunk, the navigation links will be displayed in a Burger icon. 
 - Footer - It is located at the bottom of each page in the center. 
 
 
@@ -109,7 +109,7 @@ Users can clone and copy my code for this project with the following steps:
 
 ## Interesting bugs or problems
 
--**Burger Icon** - The burger icon was shown on the overlay menu. To solve this issue, I adjusted the header1 width.
+-**Burger Icon** - The burger icon was not shown on the overlay menu. To solve this issue, I adjusted the h1 width.
 
 -**Social Media Links** - I used JavaScript code to open the social media links in a new window but it only worked for the last one only. After consulting my mentor, He showed me a simpler way to do it, using HTML code only.
 
