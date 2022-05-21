@@ -91,20 +91,24 @@
     <div class="col-sm-4 border">
       <form action="https://formspree.io/f/xrgjogwp" method="post" 
       enctype="multipart/form-data">
-      <label><strong>Name:</strong></label>
-        <br>
-        <input class="form" type="text" name="name" value="enter name"/>
-          <br><br>
+
+   <!--bootstrap form control code-->   
+         <div class="mb-3">
+            <label for="formGroupExampleInput" class="form-label"><strong>Name</strong></label>
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="enter name">
+          </div>
         
-        <label><strong>Email:</strong></label>
-        <br>
-        <input class="form" type="email" name="email" value="enter email"/>
+          <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label"><strong>Email address</strong></label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+         
+          <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label"><strong>Message</strong></label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+
         
-        <br><br>
-        <label><strong>Message:</strong></label>
-        <br>
-        <textarea id="message">
-         </textarea>
                
                  <br><br>
         <button id="send" type="submit">Send</button>
