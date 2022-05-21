@@ -45,7 +45,7 @@ nav{
     padding: 10px;
     margin-bottom: 10px;
     font-size: 16px;
-}
+   }
     
 p{
     padding-left: 15%;
@@ -92,21 +92,6 @@ span{
     height: 80px;
     margin-top:5px;
     padding-bottom: 20px;
-    }
-
-.form{
-    width:300px; 
-    height: 30px; 
-    border-radius: 5px; 
-    font-size: 14px; 
-    color: grey;
-    }
-
-#message{
-    width:300px; 
-    height: 100px; 
-    border-radius: 5px;
-    font-size: 14px;
     }
 
 #send{
