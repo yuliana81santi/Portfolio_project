@@ -60,7 +60,7 @@ Once I have learnt more about web design, Javascript and Back-end Web Developmen
 
 I used google chrome as the main browser to check my website. However, I also use a couple of other web browsers to test my website to make sure that they are presentable.  I also tested my webpage against different type of devices (i.e laptop and mobile phones) to ensure they are responsive and displayed properly on difference screen sizes. 
 
-Every time a code was changed, I checked it right away on the a google chrome to ensure they changed are displayed properly. When the code works properly, I would commit it through git and eventually on github. 
+Every time a code was changed, I checked it right away on google chrome to ensure the change works and is displayed properly. When the code works properly, I would commit it through git and eventually on github. 
 
 **HTML and CSS Validation**
 
